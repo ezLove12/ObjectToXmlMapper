@@ -1,4 +1,4 @@
-package org.kafka.demo;
+package org.viethm.xml;
 
 @XmlRootElement(name = "book")
 public class Book {
